@@ -39,8 +39,6 @@ ILI9326, SPFD5420 +246 bytes
 
 costs +114 bytes
 
-UNTESTED
-
 costs +230 bytes, 0.03s / 0.19s
 
 R61509, ST7793 +244 bytes
