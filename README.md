@@ -1,7 +1,7 @@
 # TFT-STM32-HX8347
 
 # TFT generation
-This code support many TFTs generation
+## This code support many TFTs generation
 
 S6D0139 +280 bytes
 
@@ -91,5 +91,5 @@ in main code
   }
 ```
 
-
-
+# Pins
+![image](https://github.com/user-attachments/assets/1c3213a0-7355-42c1-acdd-ef9120a9d85e)
