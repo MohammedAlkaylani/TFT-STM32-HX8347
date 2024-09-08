@@ -11,8 +11,6 @@ SSD1289,SSD1297 (ID=0x9797) +626 bytes, 0.03s
 
 R61580 Untested
 
-only works with 16BIT bus anyway
-
 LGDP4532 +120 bytes.  thanks Leodino
 
 LGDP4535 +180 bytes
