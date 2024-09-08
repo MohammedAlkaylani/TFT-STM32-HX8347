@@ -1,7 +1,7 @@
 # TFT-STM32-HX8347
 
 # TFT generation
-## This code support many TFTs generation
+This code support many TFTs generation
 
 S6D0139 +280 bytes
 
