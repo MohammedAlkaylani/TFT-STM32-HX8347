@@ -1,29 +1,52 @@
 # TFT-STM32-HX8347
 
 # TFT generation
-This code support many TFTs generation 
+This code support many TFTs generation
+
 S6D0139 +280 bytes
+
 S6D0154 +320 bytes
+
 SSD1289,SSD1297 (ID=0x9797) +626 bytes, 0.03s
+
 R61580 Untested
+
 only works with 16BIT bus anyway
+
 LGDP4532 +120 bytes.  thanks Leodino
+
 LGDP4535 +180 bytes
+
 RM68140 +52 bytes defaults to PIXFMT=0x55
+
 ST7781 +172 bytes
+
 UC8230 +118 bytes
+
 HX8347-D, HX8347-G, HX8347-I, HX8367-A +520 bytes, 0.27s
+
 HX8347-A +500 bytes, 0.27s
+
 HX8352A +486 bytes, 0.27s
+
 HX8352B
+
 monster 34 byte
+
 ILI9225-B, ILI9225-G ID=0x9225, ID=0x9226, ID=0x6813 +380 bytes
+
 ILI9326, SPFD5420 +246 bytes
+
 costs +114 bytes
+
 UNTESTED
+
 costs +230 bytes, 0.03s / 0.19s
+
 R61509, ST7793 +244 bytes
+
 costs about 103 bytes, 0.08s
+
 
 # main.c
 in main code
