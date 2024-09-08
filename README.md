@@ -27,7 +27,7 @@ costs about 103 bytes, 0.08s
 
 # main.c
 in main code
-'''
+```
   /* USER CODE BEGIN Includes */
   #include <stdio.h>
   #include "tft.h"
@@ -70,5 +70,7 @@ in main code
     }
     /* USER CODE END 3 */
   }
+```
 
-'''
+
+
